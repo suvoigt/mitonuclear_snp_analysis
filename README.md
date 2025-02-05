@@ -1,4 +1,4 @@
-# README: Mitochondrial and Nuclear Genome SNP Analysis Pipelines
+# Mitochondrial and Nuclear Genome SNP Analysis Pipelines
 
 ## Overview
 
