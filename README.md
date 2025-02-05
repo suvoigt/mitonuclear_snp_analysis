@@ -4,7 +4,7 @@
 
 These scripts were created as part of the study *Testing for Age- and Sex-Specific Mitonuclear Epistasis in Drosophila* by Garlovsky et al., 2025.
 
-This document describes two separate SNP analysis pipelines, implemented in the following scripts:
+This repository includes two scripts for SNP analysis:
 
 - **Mitochondrial SNP Analysis** (`mito_mt_seq_snps_diff.sh`): Performs SNP calling, filtering, and genetic differentiation analysis on mitochondrial sequencing data.
 - **Nuclear Genome SNP Analysis** (`mito_nuc_seq_snps_var_diff.sh`): Conducts SNP calling, variation analysis, and genetic differentiation on nuclear genome sequencing data.
