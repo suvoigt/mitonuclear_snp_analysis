@@ -222,4 +222,3 @@ java -Xmx8g -jar scripts/snpEff/snpEff.jar -ud 0 -no-downstream -no-upstream -no
 $snp_folder/mito_mt_seq_sig.html $snp_folder/mito_mt_seq_27_sig.vcf > $snp_folder/mito_mt_seq_27_sig_annotated.vcf
 
 rm $snp_folder/*tmp*
-rm -r $snp_folder/mito_mt_seq_27
