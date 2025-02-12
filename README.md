@@ -3,6 +3,7 @@
 ## Overview
 
 These scripts were created as part of the study *Testing for Age- and Sex-Specific Mitonuclear Epistasis in Drosophila* by Garlovsky et al., 2025.
+SNPs were analyzed using a dataset derived from Pool-Seq whole-genome sequencing (WGS).
 
 This repository includes two scripts for SNP analysis:
 
